@@ -1,4 +1,4 @@
-gitCREATE TABLE book(
+CREATE TABLE book(
 /* тип данных для book_id автоматическая нумерация, где дается значение +1 для каждой последующей строки */
 book_id INT PRIMARY KEY AUTO_INCREMENT,
 title VARCHAR(50),
